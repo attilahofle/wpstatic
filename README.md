@@ -1,0 +1,2 @@
+# wpstatic
+wpstatic
